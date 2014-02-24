@@ -58,7 +58,7 @@
          android:ems="10"
          android:gravity="center"
          android:hint="@string/amount_placeholder"
-         android:inputType="numberDecimal" >
+         android:inputType="number" >
 
          <requestFocus />
      </EditText>
